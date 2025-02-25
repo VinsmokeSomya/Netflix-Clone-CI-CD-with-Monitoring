@@ -885,36 +885,13 @@ kubectl get svc #use anyone
 
 ## Step 13: Access the Netflix app on the Browser
 
-- ![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/c9fd56c4-8e24-40bd-b67a-c7cce5edc16a)
-- ![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/0662da82-ad5c-45c1-a81b-10152b33cb44)
-- ![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/3d6ace51-0218-475a-8b3d-0a3813c5413f)
-- ![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/6db0292e-be3e-40d7-85ef-2541bfc0f79f)
-- ![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/008c5e21-4ae8-4c87-a58d-80b43036b217)
-- ![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/64d0e773-4ce6-453f-9e77-368547582dd6)
-- ![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/3662c450-6ef7-4727-ac3c-c222332ca205)
-- ![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/ee08dcf0-de79-4a76-a4ec-fea7aa644e02)
-- ![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/0bfdfbd0-927e-4513-96bd-5029571fc8e3)
+![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/c9fd56c4-8e24-40bd-b67a-c7cce5edc16a)
+![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/0662da82-ad5c-45c1-a81b-10152b33cb44)
+![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/3d6ace51-0218-475a-8b3d-0a3813c5413f)
+![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/6db0292e-be3e-40d7-85ef-2541bfc0f79f)
+![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/008c5e21-4ae8-4c87-a58d-80b43036b217)
+![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/64d0e773-4ce6-453f-9e77-368547582dd6)
+![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/3662c450-6ef7-4727-ac3c-c222332ca205)
+![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/ee08dcf0-de79-4a76-a4ec-fea7aa644e02)
+![image](https://github.com/rutikdevops/DevOps-Project-11/assets/109506158/0bfdfbd0-927e-4513-96bd-5029571fc8e3)
 
-## Step 14: Terminate instances
-
-## 🛠️ Author & Community  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
-
-📧 **Connect with me:**
-
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
-
----
-
-## ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)  
